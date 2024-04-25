@@ -10,48 +10,26 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal179&layout=compact&theme=radical" />
 </div>
 
-
+<hr>
 <br>
-
-## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
-
-
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-
-#### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+- 📚 Learning tech in the real world while balancing academics.
+- 👨‍💻 Focusing on Web3 and DSA currently
+- 👨‍🎓 Pursuing B.Tech in Software Engineering From DTU, India
+- 🌐 Visit my Website for more about me : [Portfolio](https://ujjawal179.github.io/)
+- 📫 How to reach me: **Find me on [Ujjawal | LinkedIn](https://www.linkedin.com/in/ujjawal-agrawal179)**
 
 <br>
 
-## Academic Background:
+### Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png"/>](https://www.uninter.com/)
-**Software Engineering Undergraduate** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+**Software Engineering Undergraduate** 
+- In progress ( Aug 2023 - May 2027)
+- Started exploring width opportunities instead of depth ones.
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
-**Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
 
 <br>
 
@@ -60,8 +38,6 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 <a href = "mailto: ujjawal.agrawal179@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ujjawal-agrawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<br>
 
-
-------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
+Last Edited on: 25/04/2024
