@@ -30,6 +30,9 @@
 - In progress ( Aug 2023 - May 2027)
 - Started exploring width opportunities instead of depth ones.
 
+<br>
+
+[![An image of @ujjawal179's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjawal179)](https://holopin.io/@ujjawal179)
 
 <br>
 
