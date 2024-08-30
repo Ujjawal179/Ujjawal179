@@ -6,25 +6,21 @@
 <br>
 
 
-## Github Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ujjawal179/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg">
-  <img src="https://raw.githubusercontent.com/Ujjawal179/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/Ujjawal179/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
-  <img src="https://raw.githubusercontent.com/Ujjawal179/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/Ujjawal179/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawal179&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjawal179&theme=radical"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujjawal179&theme=radical"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawal179&theme=radical"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawal179&theme=radical"> 
 </div>
 
 ---
 
-<hr>
-<br>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 📚 Learning tech in the real world while balancing academics.
-- 👨‍💻 Focusing on Web3 and DSA currently
+- 👨‍💻 Google Summer of Code 2024 @ SU2 Foundation: [Project](https://ujjawal179.github.io/gsoc24)
 - 👨‍🎓 Pursuing B.Tech in Software Engineering From DTU, India
 - 🌐 Visit my Website for more about me : [Portfolio](https://ujjawal179.github.io/)
 - 📫 How to reach me: **Find me on [Ujjawal | LinkedIn](https://www.linkedin.com/in/ujjawal-agrawal179)**
@@ -38,13 +34,7 @@
 - In progress ( Aug 2023 - May 2027)
 - Started exploring width opportunities instead of depth ones.
 
-<br>
-
-[![An image of @ujjawal179's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjawal179)](https://holopin.io/@ujjawal179)
-
-<be>
-
-## Github Contribution Grid Snake
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjawal179/ujjawal179/output/github-contribution-grid-snake-dark.svg">
@@ -52,13 +42,19 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ujjawal179/ujjawal179/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
+[![An image of @ujjawal179's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjawal179)](https://holopin.io/@ujjawal179)
+
+
 ---
 
-## Contact me:
 <div>
 <a href = "mailto: ujjawal.agrawal179@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ujjawal-agrawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<img src="https://komarev.com/ghpvc/?username=ujjawal179&label=Profile%20views&color=FF3670&style=for-the-badge" alt="ujjawal179" />
+<a href="https://www.buymeacoffee.com/sdmrf"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height:28px;"></a>
 </div>
 <br>
 
-Last Edited on: 25/04/2024
+Updated on: 30/08/2024
