@@ -53,7 +53,7 @@
 <a href = "mailto: ujjawal.agrawal179@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ujjawal-agrawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <img src="https://komarev.com/ghpvc/?username=ujjawal179&label=Profile%20views&color=FF3670&style=for-the-badge" alt="ujjawal179" />
-<a href="https://www.buymeacoffee.com/ujjawalarr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height:28px;"></a>
+<a href="https://buymeacoffee.com/ujjawalagrr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height:28px;"></a>
 </div>
 <br>
 
