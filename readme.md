@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawal179&theme=radical">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjawal179&theme=radical"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawal179&theme=radical&hide_border=true&include_all_commits=true&count_private=true"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujjawal179&utcOffset=5.30&theme=radical"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawal179&theme=radical"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawal179&theme=radical"> 
