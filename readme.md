@@ -44,8 +44,6 @@
 
 <br>
 
-[![An image of @ujjawal179's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjawal179)](https://holopin.io/@ujjawal179)
-
 
 ---
 
