@@ -49,7 +49,7 @@
 <div align="center">
 <a href="mailto:ujjawal.agrawal179@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/ujjawal-agrawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://buymeacoffee.com/ujjawalagrr" target="_blank"><img loading="lazy" src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height:28px;"></a>
+<a href="https://x.com/Ujjawal179"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 <img src="https://komarev.com/ghpvc/?username=ujjawal179&label=Profile%20views&color=FF3670&style=for-the-badge" alt="Profile Views">
 </div>
 
