@@ -14,7 +14,7 @@
 - 👨‍💻 **Google Summer of Code 2024** @ SU2 Foundation: [Project](https://ujjawal179.github.io/gsoc24)
 - 👨‍🎓 Pursuing **B.Tech in Software Engineering** at DTU, India.
 - 🌐 Visit my Website for more about me: [Portfolio](https://ujjawal179.github.io/)
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ujjawal-agrawal179)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ujjawal179)**
 
 ---
 
@@ -54,4 +54,5 @@
 
 
 #### Updated on: 19/01/2025
+
 
