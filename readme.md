@@ -21,8 +21,8 @@
 
 [<img align="left" height="94px" width="94px" alt="DTU Logo" src="https://upload.wikimedia.org/wikipedia/en/b/b5/DTU%2C_Delhi_official_logo.png"/>](https://www.dtu.ac.in/)
 **Software Engineering Undergraduate**  
-- In progress (Aug 2023 - May 2027)  
-- Started exploring **breadth** opportunities instead of depth ones.
+- On a gap year (probably dropping out)
+- Started exploring **breadth** opportunities instead of depth ones. A
 
 ---
 
@@ -50,3 +50,4 @@
 <a href="https://www.linkedin.com/in/ujjawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Ujjawal179"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </div>
+
