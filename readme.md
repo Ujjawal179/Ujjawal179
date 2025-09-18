@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ujjawal+Agrawal;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ujjawal+Agrawal;I'm+Building+Scalable+SaaS)](https://git.io/typing-svg)
 
 <h4 align="center">- Life Philosophy -</h4>
 <h3 align="center">"I shall either find a way or create one."</h3>
@@ -9,12 +9,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 ### About Me:
-
-- 📚 Learning tech in the real world while balancing academics.
-- 👨‍💻 **Google Summer of Code 2024** @ SU2 Foundation: [Project](https://ujjawal179.github.io/gsoc24)
-- 👨‍🎓 Pursuing **B.Tech in Software Engineering** at DTU, India.
-- 🌐 Visit my Website for more about me: [Portfolio](https://ujjawal179.github.io/)
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ujjawal179)**
+- 🌱 Building scalable SaaS as **Founder & CTO @ OpenTech**
+- 🚀 Co-Founder & CTO @ **MarkupX Brands**  
+- 🎥 Co-Founder @ **Streamers** (Live Streams advertising)  
+- 🎓 **Google Summer of Code Mentor** (SU2 Foundation)  
+- 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/ujjawal179)**  
 
 ---
 
@@ -51,9 +50,3 @@
 <a href="https://www.linkedin.com/in/ujjawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Ujjawal179"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </div>
-
-
-#### Updated on: 19/01/2025
-
-
-
