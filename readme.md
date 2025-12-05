@@ -9,8 +9,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 ### About Me:
-- 🌱 Building scalable SaaS as **Founder & CTO @ OpenTech**
-- 🚀 Co-Founder & CTO @ **MarkupX Brands**  
+- 🚀 Co-Founder & CTO @ **MarkupX Brands & LookTara.com**  
 - 🎥 Co-Founder @ **Streamers** (Live Streams advertising)  
 - 🎓 **Google Summer of Code Mentor** (SU2 Foundation)  
 - 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/ujjawal179)**  
@@ -50,3 +49,4 @@
 <a href="https://www.linkedin.com/in/ujjawal179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Ujjawal179"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </div>
+
